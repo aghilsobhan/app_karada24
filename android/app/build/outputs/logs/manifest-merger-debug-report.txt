@@ -1,0 +1,432 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:1:1-71:12
+INJECTED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:1:1-71:12
+INJECTED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:1:1-71:12
+INJECTED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:1:1-71:12
+MERGED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:1:1-71:12
+MERGED from [:url_launcher_android] C:\Users\app_karada24\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-14:12
+MERGED from [:file_picker] C:\Users\app_karada24\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [:image_picker_android] C:\Users\app_karada24\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-19:12
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\app_karada24\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:permission_handler_android] C:\Users\app_karada24\build\permission_handler_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_local_notifications] C:\Users\app_karada24\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-28:12
+MERGED from [:flutter_image_compress] C:\Users\app_karada24\build\flutter_image_compress\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-10:12
+MERGED from [:notification_permissions] C:\Users\app_karada24\build\notification_permissions\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:package_info_plus] C:\Users\app_karada24\build\package_info_plus\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:emoji_picker_flutter] C:\Users\app_karada24\build\emoji_picker_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:wakelock] C:\Users\app_karada24\build\wakelock\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider_android] C:\Users\app_karada24\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:connectivity_plus] C:\Users\app_karada24\build\connectivity_plus\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:device_info] C:\Users\app_karada24\build\device_info\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences_android] C:\Users\app_karada24\build\shared_preferences_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:webview_flutter_android] C:\Users\app_karada24\build\webview_flutter_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:video_player_android] C:\Users\app_karada24\build\video_player_android\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:sqflite] C:\Users\app_karada24\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:connectivity] C:\Users\app_karada24\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:syncfusion_flutter_pdfviewer] C:\Users\app_karada24\build\syncfusion_flutter_pdfviewer\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:adhara_socket_io] C:\Users\app_karada24\build\adhara_socket_io\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\18dde3d78286b1bea4d423be148e46aa\transformed\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Administrator\.gradle\caches\transforms-3\92e73d06672d6c77f2136eedb84c1517\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Administrator\.gradle\caches\transforms-3\0f04c8dadefc85c0fbd22af94c9c1049\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\Administrator\.gradle\caches\transforms-3\6d9dfd5395830362b02611f97a36a23a\transformed\exifinterface-1.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.heifwriter:heifwriter:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\33a413ec18eabf1610de6fadcb2a43cf\transformed\heifwriter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\b22c527b9b4e8f75906e4fb3837101bc\transformed\media-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.webkit:webkit:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\7eccc3010d4a8cd98740502cc57f087c\transformed\webkit-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.0] C:\Users\Administrator\.gradle\caches\transforms-3\474e3b0cb311418f9169f855bbce5c7e\transformed\jetified-exoplayer-hls-2.18.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.0] C:\Users\Administrator\.gradle\caches\transforms-3\e95e43b38398eaf5198ce2ca59bcea09\transformed\jetified-exoplayer-dash-2.18.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.0] C:\Users\Administrator\.gradle\caches\transforms-3\81c2e8180ecfa18b7fdd5e96c373a989\transformed\jetified-exoplayer-smoothstreaming-2.18.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.0] C:\Users\Administrator\.gradle\caches\transforms-3\e646516fbe16df0c61fbda27bc38fb92\transformed\jetified-exoplayer-core-2.18.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\dffde8f98efdafbccd115dba1dc49e33\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\ae26291ce1633716d0a1a5364604ba19\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\de05458e66280efb4c1e49f7edcbaedb\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\4b6949c612531596508355fee364434a\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\4393ef93d5fe2879d7d3f0f4dfcc4856\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.8.0] C:\Users\Administrator\.gradle\caches\transforms-3\3133060fb06073c7a73439099ee2cdc0\transformed\core-1.8.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\92b7817c91fe025c57fe84de90c73f42\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Administrator\.gradle\caches\transforms-3\9f4e0e004913cf581bc661cdb9c3fcb9\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-3\153b619d2f821b70273797397e8454f8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.0] C:\Users\Administrator\.gradle\caches\transforms-3\bf56d77c984c515c033fdaf3cc33c185\transformed\jetified-exoplayer-datasource-2.18.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.0] C:\Users\Administrator\.gradle\caches\transforms-3\67529233ddca0cdd28aa84473f3fb784\transformed\jetified-exoplayer-extractor-2.18.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.0] C:\Users\Administrator\.gradle\caches\transforms-3\b63c18e3cabdd3b4e63731be92377fbc\transformed\jetified-exoplayer-decoder-2.18.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.0] C:\Users\Administrator\.gradle\caches\transforms-3\69c175bf0c7d28f58f241af5a1a0f5aa\transformed\jetified-exoplayer-database-2.18.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.0] C:\Users\Administrator\.gradle\caches\transforms-3\fba7f6745bd9524f045de521a4d6a331\transformed\jetified-exoplayer-common-2.18.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\b4ec14d9d4764f5cfdb12e329af2ea30\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\60c2a8b368c08a61b22b62b142979305\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\4894adb8ddd212743c43e600f85afbd2\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\774f0b0fd03945f9b76ceead5097f58d\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\ea07ab138cd29db8ad662ed907ac250e\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\Administrator\.gradle\caches\transforms-3\7aa210d4751c6a5c34e7230fe6895571\transformed\jetified-threetenabp-1.2.3\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\603fbe8136f6ae40760df50850f3a2fc\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\app_karada24\android\app\src\debug\AndroidManifest.xml:1:1-8:12
+INJECTED from C:\Users\app_karada24\android\app\src\debug\AndroidManifest.xml:1:1-8:12
+INJECTED from C:\Users\app_karada24\android\app\src\debug\AndroidManifest.xml:1:1-8:12
+	package
+		ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\app_karada24\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:1:1-71:12
+		INJECTED from C:\Users\app_karada24\android\app\src\debug\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:2:5-51
+		ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:2:5-51
+	android:versionCode
+		INJECTED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:1:1-71:12
+		INJECTED from C:\Users\app_karada24\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:4:5-66
+MERGED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:4:5-66
+MERGED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:4:5-66
+MERGED from [:adhara_socket_io] C:\Users\app_karada24\build\adhara_socket_io\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:adhara_socket_io] C:\Users\app_karada24\build\adhara_socket_io\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:4:22-64
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:5:5-80
+MERGED from [:flutter_local_notifications] C:\Users\app_karada24\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-81
+MERGED from [:flutter_local_notifications] C:\Users\app_karada24\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:7:5-79
+MERGED from [:file_picker] C:\Users\app_karada24\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-80
+MERGED from [:file_picker] C:\Users\app_karada24\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.ACCESS_MEDIA_LOCATION
+ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.MANAGE_EXTERNAL_STORAGE
+ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:9:22-79
+uses-permission#android.permission.ACTION_MANAGE_ALL_FILES_ACCESS_PERMISSION
+ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:10:5-99
+	android:name
+		ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:10:22-97
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:12:5-66
+MERGED from [:flutter_local_notifications] C:\Users\app_karada24\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-66
+MERGED from [:flutter_local_notifications] C:\Users\app_karada24\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:12:22-63
+application
+ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:13:5-70:19
+MERGED from [:url_launcher_android] C:\Users\app_karada24\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher_android] C:\Users\app_karada24\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [:image_picker_android] C:\Users\app_karada24\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:image_picker_android] C:\Users\app_karada24\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-17:19
+MERGED from [:flutter_local_notifications] C:\Users\app_karada24\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-26:19
+MERGED from [:flutter_local_notifications] C:\Users\app_karada24\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:12:5-26:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Administrator\.gradle\caches\transforms-3\0f04c8dadefc85c0fbd22af94c9c1049\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Administrator\.gradle\caches\transforms-3\0f04c8dadefc85c0fbd22af94c9c1049\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.8.0] C:\Users\Administrator\.gradle\caches\transforms-3\3133060fb06073c7a73439099ee2cdc0\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.8.0] C:\Users\Administrator\.gradle\caches\transforms-3\3133060fb06073c7a73439099ee2cdc0\transformed\core-1.8.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-3\153b619d2f821b70273797397e8454f8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-3\153b619d2f821b70273797397e8454f8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\Administrator\.gradle\caches\transforms-3\7aa210d4751c6a5c34e7230fe6895571\transformed\jetified-threetenabp-1.2.3\AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\Administrator\.gradle\caches\transforms-3\7aa210d4751c6a5c34e7230fe6895571\transformed\jetified-threetenabp-1.2.3\AndroidManifest.xml:7:5-20
+	android:requestLegacyExternalStorage
+		ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:15:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.8.0] C:\Users\Administrator\.gradle\caches\transforms-3\3133060fb06073c7a73439099ee2cdc0\transformed\core-1.8.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:14:9-30
+	tools:targetApi
+		ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:18:9-28
+	android:icon
+		ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:17:9-43
+	android:usesCleartextTraffic
+		ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:16:9-44
+activity#ir.phx.app_karada24.MainActivity
+ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:21:9-58:20
+	android:launchMode
+		ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:24:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:27:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:28:13-55
+	android:exported
+		ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:22:13-36
+	android:configChanges
+		ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:26:13-163
+	android:theme
+		ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:25:13-47
+	android:name
+		ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:23:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:34:13-37:19
+	android:resource
+		ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:36:17-54
+	android:name
+		ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:35:17-72
+meta-data#com.google.firebase.messaging.default_notification_icon
+ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:38:13-40:64
+	android:resource
+		ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:40:17-62
+	android:name
+		ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:39:17-87
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:46:13-49:19
+	android:resource
+		ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:48:17-63
+	android:name
+		ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:47:17-81
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:50:13-53:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:51:17-68
+	android:name
+		ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:51:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:52:17-76
+	android:name
+		ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:52:27-74
+intent-filter#action:name:FLUTTER_NOTIFICATION_CLICK+category:name:android.intent.category.DEFAULT
+ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:54:13-57:29
+action#FLUTTER_NOTIFICATION_CLICK
+ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:55:17-69
+	android:name
+		ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:55:25-66
+category#android.intent.category.DEFAULT
+ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:56:17-76
+	android:name
+		ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:56:27-73
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver
+ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:59:9-63:20
+MERGED from [:flutter_local_notifications] C:\Users\app_karada24\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:16:9-25:20
+MERGED from [:flutter_local_notifications] C:\Users\app_karada24\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:16:9-25:20
+	android:exported
+		ADDED from [:flutter_local_notifications] C:\Users\app_karada24\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:59:19-107
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:60:13-62:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:61:17-86
+	android:name
+		ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:61:25-76
+receiver#com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver
+ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:64:9-106
+MERGED from [:flutter_local_notifications] C:\Users\app_karada24\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:13:9-15:40
+MERGED from [:flutter_local_notifications] C:\Users\app_karada24\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:13:9-15:40
+	android:exported
+		ADDED from [:flutter_local_notifications] C:\Users\app_karada24\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:64:19-103
+meta-data#flutterEmbedding
+ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:67:9-69:33
+	android:value
+		ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:69:13-30
+	android:name
+		ADDED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml:68:13-44
+uses-sdk
+INJECTED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml
+MERGED from [:url_launcher_android] C:\Users\app_karada24\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher_android] C:\Users\app_karada24\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:file_picker] C:\Users\app_karada24\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:file_picker] C:\Users\app_karada24\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker_android] C:\Users\app_karada24\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:image_picker_android] C:\Users\app_karada24\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\app_karada24\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_plugin_android_lifecycle] C:\Users\app_karada24\build\flutter_plugin_android_lifecycle\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler_android] C:\Users\app_karada24\build\permission_handler_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler_android] C:\Users\app_karada24\build\permission_handler_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] C:\Users\app_karada24\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] C:\Users\app_karada24\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_image_compress] C:\Users\app_karada24\build\flutter_image_compress\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-8:55
+MERGED from [:flutter_image_compress] C:\Users\app_karada24\build\flutter_image_compress\intermediates\library_manifest\debug\AndroidManifest.xml:6:5-8:55
+MERGED from [:notification_permissions] C:\Users\app_karada24\build\notification_permissions\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:notification_permissions] C:\Users\app_karada24\build\notification_permissions\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:package_info_plus] C:\Users\app_karada24\build\package_info_plus\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:package_info_plus] C:\Users\app_karada24\build\package_info_plus\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:emoji_picker_flutter] C:\Users\app_karada24\build\emoji_picker_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:emoji_picker_flutter] C:\Users\app_karada24\build\emoji_picker_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:wakelock] C:\Users\app_karada24\build\wakelock\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:wakelock] C:\Users\app_karada24\build\wakelock\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\Users\app_karada24\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:path_provider_android] C:\Users\app_karada24\build\path_provider_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:connectivity_plus] C:\Users\app_karada24\build\connectivity_plus\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:connectivity_plus] C:\Users\app_karada24\build\connectivity_plus\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:device_info] C:\Users\app_karada24\build\device_info\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:device_info] C:\Users\app_karada24\build\device_info\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] C:\Users\app_karada24\build\shared_preferences_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences_android] C:\Users\app_karada24\build\shared_preferences_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter_android] C:\Users\app_karada24\build\webview_flutter_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter_android] C:\Users\app_karada24\build\webview_flutter_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:video_player_android] C:\Users\app_karada24\build\video_player_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:video_player_android] C:\Users\app_karada24\build\video_player_android\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] C:\Users\app_karada24\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] C:\Users\app_karada24\build\sqflite\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:connectivity] C:\Users\app_karada24\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:connectivity] C:\Users\app_karada24\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:syncfusion_flutter_pdfviewer] C:\Users\app_karada24\build\syncfusion_flutter_pdfviewer\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:syncfusion_flutter_pdfviewer] C:\Users\app_karada24\build\syncfusion_flutter_pdfviewer\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:adhara_socket_io] C:\Users\app_karada24\build\adhara_socket_io\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:adhara_socket_io] C:\Users\app_karada24\build\adhara_socket_io\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\18dde3d78286b1bea4d423be148e46aa\transformed\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\18dde3d78286b1bea4d423be148e46aa\transformed\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Administrator\.gradle\caches\transforms-3\92e73d06672d6c77f2136eedb84c1517\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] C:\Users\Administrator\.gradle\caches\transforms-3\92e73d06672d6c77f2136eedb84c1517\transformed\jetified-window-java-1.0.0-beta04\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Administrator\.gradle\caches\transforms-3\0f04c8dadefc85c0fbd22af94c9c1049\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] C:\Users\Administrator\.gradle\caches\transforms-3\0f04c8dadefc85c0fbd22af94c9c1049\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\Administrator\.gradle\caches\transforms-3\6d9dfd5395830362b02611f97a36a23a\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\Administrator\.gradle\caches\transforms-3\6d9dfd5395830362b02611f97a36a23a\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.heifwriter:heifwriter:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\33a413ec18eabf1610de6fadcb2a43cf\transformed\heifwriter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.heifwriter:heifwriter:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\33a413ec18eabf1610de6fadcb2a43cf\transformed\heifwriter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\b22c527b9b4e8f75906e4fb3837101bc\transformed\media-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\b22c527b9b4e8f75906e4fb3837101bc\transformed\media-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\7eccc3010d4a8cd98740502cc57f087c\transformed\webkit-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\7eccc3010d4a8cd98740502cc57f087c\transformed\webkit-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.0] C:\Users\Administrator\.gradle\caches\transforms-3\474e3b0cb311418f9169f855bbce5c7e\transformed\jetified-exoplayer-hls-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-hls:2.18.0] C:\Users\Administrator\.gradle\caches\transforms-3\474e3b0cb311418f9169f855bbce5c7e\transformed\jetified-exoplayer-hls-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.0] C:\Users\Administrator\.gradle\caches\transforms-3\e95e43b38398eaf5198ce2ca59bcea09\transformed\jetified-exoplayer-dash-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-dash:2.18.0] C:\Users\Administrator\.gradle\caches\transforms-3\e95e43b38398eaf5198ce2ca59bcea09\transformed\jetified-exoplayer-dash-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.0] C:\Users\Administrator\.gradle\caches\transforms-3\81c2e8180ecfa18b7fdd5e96c373a989\transformed\jetified-exoplayer-smoothstreaming-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-smoothstreaming:2.18.0] C:\Users\Administrator\.gradle\caches\transforms-3\81c2e8180ecfa18b7fdd5e96c373a989\transformed\jetified-exoplayer-smoothstreaming-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.0] C:\Users\Administrator\.gradle\caches\transforms-3\e646516fbe16df0c61fbda27bc38fb92\transformed\jetified-exoplayer-core-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.0] C:\Users\Administrator\.gradle\caches\transforms-3\e646516fbe16df0c61fbda27bc38fb92\transformed\jetified-exoplayer-core-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\dffde8f98efdafbccd115dba1dc49e33\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\dffde8f98efdafbccd115dba1dc49e33\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\ae26291ce1633716d0a1a5364604ba19\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\ae26291ce1633716d0a1a5364604ba19\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\de05458e66280efb4c1e49f7edcbaedb\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\de05458e66280efb4c1e49f7edcbaedb\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\4b6949c612531596508355fee364434a\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\4b6949c612531596508355fee364434a\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\4393ef93d5fe2879d7d3f0f4dfcc4856\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\4393ef93d5fe2879d7d3f0f4dfcc4856\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.8.0] C:\Users\Administrator\.gradle\caches\transforms-3\3133060fb06073c7a73439099ee2cdc0\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.8.0] C:\Users\Administrator\.gradle\caches\transforms-3\3133060fb06073c7a73439099ee2cdc0\transformed\core-1.8.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\92b7817c91fe025c57fe84de90c73f42\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\92b7817c91fe025c57fe84de90c73f42\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Administrator\.gradle\caches\transforms-3\9f4e0e004913cf581bc661cdb9c3fcb9\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Administrator\.gradle\caches\transforms-3\9f4e0e004913cf581bc661cdb9c3fcb9\transformed\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-3\153b619d2f821b70273797397e8454f8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\Administrator\.gradle\caches\transforms-3\153b619d2f821b70273797397e8454f8\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.0] C:\Users\Administrator\.gradle\caches\transforms-3\bf56d77c984c515c033fdaf3cc33c185\transformed\jetified-exoplayer-datasource-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-datasource:2.18.0] C:\Users\Administrator\.gradle\caches\transforms-3\bf56d77c984c515c033fdaf3cc33c185\transformed\jetified-exoplayer-datasource-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.0] C:\Users\Administrator\.gradle\caches\transforms-3\67529233ddca0cdd28aa84473f3fb784\transformed\jetified-exoplayer-extractor-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-extractor:2.18.0] C:\Users\Administrator\.gradle\caches\transforms-3\67529233ddca0cdd28aa84473f3fb784\transformed\jetified-exoplayer-extractor-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.0] C:\Users\Administrator\.gradle\caches\transforms-3\b63c18e3cabdd3b4e63731be92377fbc\transformed\jetified-exoplayer-decoder-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-decoder:2.18.0] C:\Users\Administrator\.gradle\caches\transforms-3\b63c18e3cabdd3b4e63731be92377fbc\transformed\jetified-exoplayer-decoder-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.0] C:\Users\Administrator\.gradle\caches\transforms-3\69c175bf0c7d28f58f241af5a1a0f5aa\transformed\jetified-exoplayer-database-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-database:2.18.0] C:\Users\Administrator\.gradle\caches\transforms-3\69c175bf0c7d28f58f241af5a1a0f5aa\transformed\jetified-exoplayer-database-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.0] C:\Users\Administrator\.gradle\caches\transforms-3\fba7f6745bd9524f045de521a4d6a331\transformed\jetified-exoplayer-common-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.0] C:\Users\Administrator\.gradle\caches\transforms-3\fba7f6745bd9524f045de521a4d6a331\transformed\jetified-exoplayer-common-2.18.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\b4ec14d9d4764f5cfdb12e329af2ea30\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\b4ec14d9d4764f5cfdb12e329af2ea30\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\60c2a8b368c08a61b22b62b142979305\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\60c2a8b368c08a61b22b62b142979305\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\4894adb8ddd212743c43e600f85afbd2\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Administrator\.gradle\caches\transforms-3\4894adb8ddd212743c43e600f85afbd2\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\774f0b0fd03945f9b76ceead5097f58d\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\774f0b0fd03945f9b76ceead5097f58d\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\ea07ab138cd29db8ad662ed907ac250e\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\ea07ab138cd29db8ad662ed907ac250e\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\Administrator\.gradle\caches\transforms-3\7aa210d4751c6a5c34e7230fe6895571\transformed\jetified-threetenabp-1.2.3\AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.2.3] C:\Users\Administrator\.gradle\caches\transforms-3\7aa210d4751c6a5c34e7230fe6895571\transformed\jetified-threetenabp-1.2.3\AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\603fbe8136f6ae40760df50850f3a2fc\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] C:\Users\Administrator\.gradle\caches\transforms-3\603fbe8136f6ae40760df50850f3a2fc\transformed\jetified-annotation-experimental-1.1.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\app_karada24\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\app_karada24\android\app\src\debug\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:flutter_image_compress] C:\Users\app_karada24\build\flutter_image_compress\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-52
+	android:targetSdkVersion
+		INJECTED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\app_karada24\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\app_karada24\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\app_karada24\android\app\src\debug\AndroidManifest.xml
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher_android] C:\Users\app_karada24\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher_android] C:\Users\app_karada24\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher_android] C:\Users\app_karada24\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher_android] C:\Users\app_karada24\build\url_launcher_android\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-74
+queries
+ADDED from [:file_picker] C:\Users\app_karada24\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-15:15
+intent#action:name:android.intent.action.GET_CONTENT+data:mimeType:*/*
+ADDED from [:file_picker] C:\Users\app_karada24\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:9-14:18
+action#android.intent.action.GET_CONTENT
+ADDED from [:file_picker] C:\Users\app_karada24\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-72
+	android:name
+		ADDED from [:file_picker] C:\Users\app_karada24\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:21-69
+data
+ADDED from [:file_picker] C:\Users\app_karada24\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-44
+	android:mimeType
+		ADDED from [:file_picker] C:\Users\app_karada24\build\file_picker\intermediates\library_manifest\debug\AndroidManifest.xml:13:19-41
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker_android] C:\Users\app_karada24\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-16:20
+	android:grantUriPermissions
+		ADDED from [:image_picker_android] C:\Users\app_karada24\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-47
+	android:authorities
+		ADDED from [:image_picker_android] C:\Users\app_karada24\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-74
+	android:exported
+		ADDED from [:image_picker_android] C:\Users\app_karada24\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [:image_picker_android] C:\Users\app_karada24\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker_android] C:\Users\app_karada24\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-15:75
+	android:resource
+		ADDED from [:image_picker_android] C:\Users\app_karada24\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:15:17-72
+	android:name
+		ADDED from [:image_picker_android] C:\Users\app_karada24\build\image_picker_android\intermediates\library_manifest\debug\AndroidManifest.xml:14:17-67
+uses-permission#android.permission.USE_FULL_SCREEN_INTENT
+ADDED from [:flutter_local_notifications] C:\Users\app_karada24\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\app_karada24\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.SCHEDULE_EXACT_ALARM
+ADDED from [:flutter_local_notifications] C:\Users\app_karada24\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\app_karada24\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:10:22-76
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.MY_PACKAGE_REPLACED+action:name:android.intent.action.QUICKBOOT_POWERON+action:name:com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] C:\Users\app_karada24\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-24:29
+action#android.intent.action.MY_PACKAGE_REPLACED
+ADDED from [:flutter_local_notifications] C:\Users\app_karada24\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:21:17-84
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\app_karada24\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:21:25-81
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] C:\Users\app_karada24\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\app_karada24\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:22:25-79
+action#com.htc.intent.action.QUICKBOOT_POWERON
+ADDED from [:flutter_local_notifications] C:\Users\app_karada24\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:23:17-82
+	android:name
+		ADDED from [:flutter_local_notifications] C:\Users\app_karada24\build\flutter_local_notifications\intermediates\library_manifest\debug\AndroidManifest.xml:23:25-79
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:connectivity_plus] C:\Users\app_karada24\build\connectivity_plus\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-79
+MERGED from [:connectivity] C:\Users\app_karada24\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-79
+MERGED from [:connectivity] C:\Users\app_karada24\build\connectivity\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.0] C:\Users\Administrator\.gradle\caches\transforms-3\e646516fbe16df0c61fbda27bc38fb92\transformed\jetified-exoplayer-core-2.18.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-core:2.18.0] C:\Users\Administrator\.gradle\caches\transforms-3\e646516fbe16df0c61fbda27bc38fb92\transformed\jetified-exoplayer-core-2.18.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.0] C:\Users\Administrator\.gradle\caches\transforms-3\fba7f6745bd9524f045de521a4d6a331\transformed\jetified-exoplayer-common-2.18.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.exoplayer:exoplayer-common:2.18.0] C:\Users\Administrator\.gradle\caches\transforms-3\fba7f6745bd9524f045de521a4d6a331\transformed\jetified-exoplayer-common-2.18.0\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [:connectivity_plus] C:\Users\app_karada24\build\connectivity_plus\intermediates\library_manifest\debug\AndroidManifest.xml:7:22-76
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Administrator\.gradle\caches\transforms-3\0f04c8dadefc85c0fbd22af94c9c1049\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Administrator\.gradle\caches\transforms-3\0f04c8dadefc85c0fbd22af94c9c1049\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Administrator\.gradle\caches\transforms-3\0f04c8dadefc85c0fbd22af94c9c1049\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Administrator\.gradle\caches\transforms-3\0f04c8dadefc85c0fbd22af94c9c1049\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Administrator\.gradle\caches\transforms-3\0f04c8dadefc85c0fbd22af94c9c1049\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] C:\Users\Administrator\.gradle\caches\transforms-3\0f04c8dadefc85c0fbd22af94c9c1049\transformed\jetified-window-1.0.0-beta04\AndroidManifest.xml:29:13-51
